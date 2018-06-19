@@ -30,7 +30,7 @@ Syntax highlighted code block
 4. Bulleted
 5. List?
 
-##Why must I type the numbers manually???#
+##Why must I type the numbers manually???
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
