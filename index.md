@@ -85,7 +85,7 @@ As the sound engineer your job is to mix the sound coming off stage in such a wa
 - Reverb can create a sense of depth
 - Volume can create the effect of height
 
-Starting off with a standard MONO mix ie. all the channels are panned to the centre so that the sounds are coming equally from the left and right speakers. They are in effect clumped together in the centre of the sound field. There will be a varying amount sound coming off stage from the monitors [if the musicians aren’t using In-Ears] as well as the guitar amps and more importantly, the kit. You will have to deal with these on an individual basis.
+Starting off with a standard MONO mix ie. all the channels are panned to the centre so that the sounds are coming equally from the left and right speakers. They are in effect clumped together in the centre of the sound field. There will be a varying amount sound coming off stage from the monitors [if the musicians aren’t using in-ears-monitors] as well as the guitar amps and more importantly, the kit. You will have to deal with these on an individual basis.
 
 Imagine a horizontal line running across the front of the stage from left to right situated at the point where musicians start to hear the PA above the stage volume.
 
