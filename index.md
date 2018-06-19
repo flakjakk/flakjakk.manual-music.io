@@ -72,11 +72,11 @@ But you have to have a reason for which methods you use because merely playing a
 
 ## Vol vs Gain
 
--Line-in / -outs
--Cables and jacks
--DI – when to use it [and when not to]
--Terminology issues
--Sound-chain from source to speaker
+- Line-in / -outs
+- Cables and jacks
+- DI – when to use it [and when not to]
+- Terminology issues
+- Sound-chain from source to speaker
 
 ## The Sound field
 
