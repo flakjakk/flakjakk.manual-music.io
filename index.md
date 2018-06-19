@@ -24,6 +24,14 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+1. This
+2. Is
+3. A
+4. Bulleted
+5. List?
+
+##Why must I type the numbers manually???#
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
