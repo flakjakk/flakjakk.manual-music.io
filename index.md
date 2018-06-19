@@ -1,9 +1,9 @@
-## Welcome to The Better Music Manual!
+# Welcome to The Better Music Manual!
 
-You can use the [editor on GitHub](https://github.com/flakjakk/flakjakk.manual-music.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+##How can we help you?
+The goal of this document is to improve individual and group musicianship, enhance your musical sensitivity, improve your ear, make it easier to adapt to differing playing situations, give you more confidence, and generally make a better musician out of you!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+If you want to improve in any of these areas then this document is for you!
 ------------------------------------------------------------------------------------
 
 ### Markdown
