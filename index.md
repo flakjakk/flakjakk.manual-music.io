@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-#Testing the size / shape of Header 1#
+# Testing the size / shape of Header 1
 
 - Bulleted
 - List
@@ -30,7 +30,7 @@ Syntax highlighted code block
 4. Bulleted
 5. List?
 
-## Why must I type the numbers manually???
+# Why must I type the numbers manually???
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
