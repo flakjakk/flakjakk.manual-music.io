@@ -99,4 +99,47 @@ Imagine a horizontal line running across the front of the stage from left to rig
 
 These are some very basic guidelines – you will have to use your discretion in all cases.
 
+### Balancing acts
+
+## Mixers
+- Analog / digital desks
+- How mixers work
+- How a channel on the mixer works
+- Auxiliaries
+
+## EQ
+- Room
+- PA
+- Voices
+- Instruments
+
+## Effects
+- Reverb
+- Delay
+
+## Microphone choice and usage
+
+### Voice
+
+### Instruments
+
+### Kit
+
+## Monitoring
+
+### Speakers
+
+### In-ear
+
+## Things to consider
+
+- The placebo effect
+- The subjectivity of listeners
+- Prima donnas / Divas
+
+## A good sound fulfills these criteria
+- Not too loud / not too soft
+- You can hear everything that is being sung / played on stage
+- The lead vocal is clear
+
 ------------------------------------------------------------------------------------
