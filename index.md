@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to The Better Music Manual!
 
 You can use the [editor on GitHub](https://github.com/flakjakk/flakjakk.manual-music.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,11 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-#Teating the size / shape of Header 1#
+#Testing the size / shape of Header 1#
 
 - Bulleted
 - List
